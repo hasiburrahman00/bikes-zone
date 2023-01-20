@@ -30,3 +30,9 @@
     line-height: 52px;
     color: #000000;
 }
+.banner {
+    background: rgba(231, 111, 81, 0.1);
+}
+.carousel-control-next, .carousel-control-prev {
+    width: 4%;
+}
